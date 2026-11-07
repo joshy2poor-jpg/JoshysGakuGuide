@@ -1,11 +1,290 @@
 {
-  "checked_at_utc": null,
-  "codes": [],
+  "checked_at_utc": "2026-11-07T17:17:05+00:00",
+  "codes": [
+    {
+      "code": "9999rerolls",
+      "status": "reported_active",
+      "sources": [
+        "RoCodes",
+        "ClaimCodes"
+      ],
+      "last_checked_at_utc": "2026-11-07T17:17:05+00:00",
+      "note": "Listed by at least two monitored sources; still not tested in-game."
+    },
+    {
+      "code": "CLUBAKUMASOBACK",
+      "status": "unverified",
+      "sources": [
+        "RoCodes"
+      ],
+      "last_checked_at_utc": "2026-11-07T17:17:05+00:00",
+      "note": "Only one monitored source currently lists this code; verify manually."
+    },
+    {
+      "code": "CQC",
+      "status": "unverified",
+      "sources": [
+        "RoCodes"
+      ],
+      "last_checked_at_utc": "2026-11-07T17:17:05+00:00",
+      "note": "Only one monitored source currently lists this code; verify manually."
+    },
+    {
+      "code": "discordfixed",
+      "status": "unverified",
+      "sources": [
+        "RoCodes"
+      ],
+      "last_checked_at_utc": "2026-11-07T17:17:05+00:00",
+      "note": "Only one monitored source currently lists this code; verify manually."
+    },
+    {
+      "code": "doublerestart",
+      "status": "unverified",
+      "sources": [
+        "RoCodes"
+      ],
+      "last_checked_at_utc": "2026-11-07T17:17:05+00:00",
+      "note": "Only one monitored source currently lists this code; verify manually."
+    },
+    {
+      "code": "EATUP",
+      "status": "unverified",
+      "sources": [
+        "RoCodes"
+      ],
+      "last_checked_at_utc": "2026-11-07T17:17:05+00:00",
+      "note": "Only one monitored source currently lists this code; verify manually."
+    },
+    {
+      "code": "FRESHLOOK",
+      "status": "unverified",
+      "sources": [
+        "RoCodes"
+      ],
+      "last_checked_at_utc": "2026-11-07T17:17:05+00:00",
+      "note": "Only one monitored source currently lists this code; verify manually."
+    },
+    {
+      "code": "GAKURAN",
+      "status": "unverified",
+      "sources": [
+        "RoCodes"
+      ],
+      "last_checked_at_utc": "2026-11-07T17:17:05+00:00",
+      "note": "Only one monitored source currently lists this code; verify manually."
+    },
+    {
+      "code": "GAKURANCOMEBACK",
+      "status": "unverified",
+      "sources": [
+        "RoCodes"
+      ],
+      "last_checked_at_utc": "2026-11-07T17:17:05+00:00",
+      "note": "Only one monitored source currently lists this code; verify manually."
+    },
+    {
+      "code": "idk",
+      "status": "unverified",
+      "sources": [
+        "RoCodes"
+      ],
+      "last_checked_at_utc": "2026-11-07T17:17:05+00:00",
+      "note": "Only one monitored source currently lists this code; verify manually."
+    },
+    {
+      "code": "laterestart",
+      "status": "unverified",
+      "sources": [
+        "RoCodes"
+      ],
+      "last_checked_at_utc": "2026-11-07T17:17:05+00:00",
+      "note": "Only one monitored source currently lists this code; verify manually."
+    },
+    {
+      "code": "limitedhalloweenitemsgogetthemtoflex",
+      "status": "reported_active",
+      "sources": [
+        "RoCodes",
+        "ClaimCodes"
+      ],
+      "last_checked_at_utc": "2026-11-07T17:17:05+00:00",
+      "note": "Listed by at least two monitored sources; still not tested in-game."
+    },
+    {
+      "code": "MANGA",
+      "status": "reported_active",
+      "sources": [
+        "RoCodes",
+        "ClaimCodes"
+      ],
+      "last_checked_at_utc": "2026-11-07T17:17:05+00:00",
+      "note": "Listed by at least two monitored sources; still not tested in-game."
+    },
+    {
+      "code": "NOMORESILENCE",
+      "status": "unverified",
+      "sources": [
+        "RoCodes"
+      ],
+      "last_checked_at_utc": "2026-11-07T17:17:05+00:00",
+      "note": "Only one monitored source currently lists this code; verify manually."
+    },
+    {
+      "code": "PHONEDECO",
+      "status": "reported_active",
+      "sources": [
+        "RoCodes",
+        "ClaimCodes"
+      ],
+      "last_checked_at_utc": "2026-11-07T17:17:05+00:00",
+      "note": "Listed by at least two monitored sources; still not tested in-game."
+    },
+    {
+      "code": "PITY",
+      "status": "unverified",
+      "sources": [
+        "RoCodes"
+      ],
+      "last_checked_at_utc": "2026-11-07T17:17:05+00:00",
+      "note": "Only one monitored source currently lists this code; verify manually."
+    },
+    {
+      "code": "pityfixed",
+      "status": "unverified",
+      "sources": [
+        "RoCodes"
+      ],
+      "last_checked_at_utc": "2026-11-07T17:17:05+00:00",
+      "note": "Only one monitored source currently lists this code; verify manually."
+    },
+    {
+      "code": "QOL2",
+      "status": "unverified",
+      "sources": [
+        "RoCodes"
+      ],
+      "last_checked_at_utc": "2026-11-07T17:17:05+00:00",
+      "note": "Only one monitored source currently lists this code; verify manually."
+    },
+    {
+      "code": "QOL3",
+      "status": "unverified",
+      "sources": [
+        "RoCodes"
+      ],
+      "last_checked_at_utc": "2026-11-07T17:17:05+00:00",
+      "note": "Only one monitored source currently lists this code; verify manually."
+    },
+    {
+      "code": "QOL4",
+      "status": "unverified",
+      "sources": [
+        "RoCodes"
+      ],
+      "last_checked_at_utc": "2026-11-07T17:17:05+00:00",
+      "note": "Only one monitored source currently lists this code; verify manually."
+    },
+    {
+      "code": "random",
+      "status": "reported_active",
+      "sources": [
+        "RoCodes",
+        "ClaimCodes"
+      ],
+      "last_checked_at_utc": "2026-11-07T17:17:05+00:00",
+      "note": "Listed by at least two monitored sources; still not tested in-game."
+    },
+    {
+      "code": "SINGALONG",
+      "status": "unverified",
+      "sources": [
+        "RoCodes"
+      ],
+      "last_checked_at_utc": "2026-11-07T17:17:05+00:00",
+      "note": "Only one monitored source currently lists this code; verify manually."
+    },
+    {
+      "code": "SKATERBOY",
+      "status": "unverified",
+      "sources": [
+        "RoCodes"
+      ],
+      "last_checked_at_utc": "2026-11-07T17:17:05+00:00",
+      "note": "Only one monitored source currently lists this code; verify manually."
+    },
+    {
+      "code": "UMA",
+      "status": "unverified",
+      "sources": [
+        "RoCodes"
+      ],
+      "last_checked_at_utc": "2026-11-07T17:17:05+00:00",
+      "note": "Only one monitored source currently lists this code; verify manually."
+    }
+  ],
   "awakening_source": {
     "url": "https://gakuran.cc/fighting-styles",
-    "status": "not_checked",
+    "status": "baseline_saved",
+    "last_checked_at_utc": "2026-11-07T17:17:05+00:00",
     "last_changed_at_utc": null,
-    "note": "The source page is monitored for changes. Requirement text is queued for review rather than silently replacing the guide."
+    "sha256": "382d757f973649315ff12ddf4abb033fbdb19709767faa370aefcbf27fa0b0ad",
+    "note": "A source change was detected. Review the current guide before publishing changed awakening requirements."
   },
-  "source_checks": []
+  "source_checks": [
+    {
+      "name": "RoCodes",
+      "url": "https://rocodes.gg/codes/gakuran",
+      "codes": [
+        "9999rerolls",
+        "CLUBAKUMASOBACK",
+        "CQC",
+        "EATUP",
+        "FRESHLOOK",
+        "GAKURAN",
+        "GAKURANCOMEBACK",
+        "MANGA",
+        "NOMORESILENCE",
+        "PHONEDECO",
+        "PITY",
+        "QOL2",
+        "QOL3",
+        "QOL4",
+        "SINGALONG",
+        "SKATERBOY",
+        "UMA",
+        "discordfixed",
+        "doublerestart",
+        "idk",
+        "laterestart",
+        "limitedhalloweenitemsgogetthemtoflex",
+        "pityfixed",
+        "random"
+      ],
+      "ok": true
+    },
+    {
+      "name": "ClaimCodes",
+      "url": "https://claimcodes.gg/roblox/gakuran/",
+      "codes": [
+        "9999rerolls",
+        "MANGA",
+        "PHONEDECO",
+        "limitedhalloweenitemsgogetthemtoflex",
+        "random"
+      ],
+      "ok": true
+    },
+    {
+      "name": "Game.Guide",
+      "url": "https://www.game.guide/roblox-codes/gakuran",
+      "codes": [],
+      "ok": false,
+      "error": "No code candidates found in active section; page format may have changed."
+    }
+  ],
+  "warnings": [
+    "Game.Guide: ValueError: No code candidates found in active section; page format may have changed."
+  ],
+  "important": "Reported status is based on third-party source agreement, not live redemption in Roblox. New or changed awakening details require human review."
 }
