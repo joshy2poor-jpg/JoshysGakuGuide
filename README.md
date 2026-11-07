@@ -1,0 +1,2 @@
+# JoshysGakuGuide
+Gakuran Updates 
