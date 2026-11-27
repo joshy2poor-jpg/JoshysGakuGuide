@@ -1,15 +1,14 @@
 {
-  "checked_at_utc": "2026-11-27T01:24:46+00:00",
+  "checked_at_utc": "2026-11-27T15:58:22+00:00",
   "codes": [
     {
       "code": "9999rerolls",
-      "status": "reported_active",
+      "status": "unverified",
       "sources": [
-        "RoCodes",
-        "ClaimCodes"
+        "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
-      "note": "Listed by at least two monitored sources; still not tested in-game."
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
+      "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
       "code": "CLUBAKUMASOBACK",
@@ -17,7 +16,7 @@
       "sources": [
         "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
       "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
@@ -26,7 +25,7 @@
       "sources": [
         "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
       "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
@@ -35,7 +34,7 @@
       "sources": [
         "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
       "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
@@ -44,7 +43,7 @@
       "sources": [
         "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
       "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
@@ -53,7 +52,7 @@
       "sources": [
         "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
       "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
@@ -62,7 +61,7 @@
       "sources": [
         "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
       "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
@@ -71,7 +70,7 @@
       "sources": [
         "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
       "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
@@ -80,7 +79,7 @@
       "sources": [
         "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
       "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
@@ -89,7 +88,7 @@
       "sources": [
         "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
       "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
@@ -98,7 +97,7 @@
       "sources": [
         "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
       "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
@@ -107,28 +106,26 @@
       "sources": [
         "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
       "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
       "code": "limitedhalloweenitemsgogetthemtoflex",
-      "status": "reported_active",
+      "status": "unverified",
       "sources": [
-        "RoCodes",
-        "ClaimCodes"
+        "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
-      "note": "Listed by at least two monitored sources; still not tested in-game."
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
+      "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
       "code": "MANGA",
-      "status": "reported_active",
+      "status": "unverified",
       "sources": [
-        "RoCodes",
-        "ClaimCodes"
+        "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
-      "note": "Listed by at least two monitored sources; still not tested in-game."
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
+      "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
       "code": "NOMORESILENCE",
@@ -136,7 +133,7 @@
       "sources": [
         "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
       "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
@@ -145,18 +142,17 @@
       "sources": [
         "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
       "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
       "code": "PHONEDECO",
-      "status": "reported_active",
+      "status": "unverified",
       "sources": [
-        "RoCodes",
-        "ClaimCodes"
+        "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
-      "note": "Listed by at least two monitored sources; still not tested in-game."
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
+      "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
       "code": "PITY",
@@ -164,7 +160,7 @@
       "sources": [
         "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
       "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
@@ -173,7 +169,7 @@
       "sources": [
         "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
       "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
@@ -182,7 +178,7 @@
       "sources": [
         "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
       "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
@@ -191,7 +187,7 @@
       "sources": [
         "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
       "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
@@ -200,18 +196,17 @@
       "sources": [
         "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
       "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
       "code": "random",
-      "status": "reported_active",
+      "status": "unverified",
       "sources": [
-        "RoCodes",
-        "ClaimCodes"
+        "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
-      "note": "Listed by at least two monitored sources; still not tested in-game."
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
+      "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
       "code": "riptaiman",
@@ -219,7 +214,7 @@
       "sources": [
         "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
       "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
@@ -228,7 +223,7 @@
       "sources": [
         "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
       "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
@@ -237,7 +232,7 @@
       "sources": [
         "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
       "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
@@ -246,7 +241,7 @@
       "sources": [
         "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
       "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
@@ -255,7 +250,7 @@
       "sources": [
         "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
       "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
@@ -264,7 +259,7 @@
       "sources": [
         "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
       "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
@@ -273,7 +268,7 @@
       "sources": [
         "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
       "note": "Only one monitored source currently lists this code; verify manually."
     },
     {
@@ -282,14 +277,14 @@
       "sources": [
         "RoCodes"
       ],
-      "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
+      "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
       "note": "Only one monitored source currently lists this code; verify manually."
     }
   ],
   "awakening_source": {
     "url": "https://gakuran.cc/fighting-styles",
     "status": "checked_no_change",
-    "last_checked_at_utc": "2026-11-27T01:24:46+00:00",
+    "last_checked_at_utc": "2026-11-27T15:58:22+00:00",
     "last_changed_at_utc": "2026-11-19T05:32:24+00:00",
     "sha256": "12d3a8e4dc851f70bc2fbfd2d45517889b2ec5e2ff0dc4993f89aee8313ee604",
     "note": "A source change was detected. Review the current guide before publishing changed awakening requirements."
@@ -336,14 +331,9 @@
     {
       "name": "ClaimCodes",
       "url": "https://claimcodes.gg/roblox/gakuran/",
-      "codes": [
-        "9999rerolls",
-        "MANGA",
-        "PHONEDECO",
-        "limitedhalloweenitemsgogetthemtoflex",
-        "random"
-      ],
-      "ok": true
+      "codes": [],
+      "ok": false,
+      "error": "No code candidates found in active section; page format may have changed."
     },
     {
       "name": "Game.Guide",
@@ -354,6 +344,7 @@
     }
   ],
   "warnings": [
+    "ClaimCodes: ValueError: No code candidates found in active section; page format may have changed.",
     "Game.Guide: ValueError: No code candidates found in active section; page format may have changed."
   ],
   "important": "Reported status is based on third-party source agreement, not live redemption in Roblox. New or changed awakening details require human review."
